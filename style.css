@@ -1,0 +1,141 @@
+
+header {
+    background-color: #ffC8AE;
+    border:  3px solid #BD081C;
+    width: 1264px;
+    height: 224px;
+
+}
+
+header > p {
+    width: 140px;
+    height: 38px;
+    text-align: center;
+    margin-top: 0;
+    background: #BD081C;
+    color: #ffffff;
+    font-size: 23.8px;
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: #E0FFA8;
+    border: 3px solid #598527;
+    width: 1166px;
+    height: 111px;
+    margin-left: 30px;
+}
+
+nav > p {
+    width: 140px;
+    height: 38px;
+    text-align: center;
+    margin-top: 0;
+    background: #598527;
+    color: #ffffff;
+    font-size: 23.8px;
+    font-family: sans-serif;
+}
+
+main {
+    background-color: #ffC8AE;
+    border:  3px solid #BD081C;
+    width: 1264px;
+    height: 679px;
+    margin-top: 10px;
+    display: flex;
+}
+
+main > p {
+    width: 140px;
+    height: 38px;
+    text-align: center;
+    margin-top: 0;
+    background: #BD081C;
+    color: #ffffff;
+    font-size: 23.8px;
+    font-family: sans-serif;
+    
+}
+
+article {
+    background-color: #DDDDDD;
+    border:  3px solid #464646;
+    width: 980px;
+    height: 561px;
+    margin-left: -100px;
+    margin-top: 50px;
+
+}
+article > p {
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    margin-top: 0;
+    background: #464646;
+    color: #ffffff;
+    font-size: 23.8px;
+    font-family: sans-serif;
+}
+
+section {
+    background-color: #CCFFFF;
+    border:  3px solid #0F62A4;
+    width: 889px;
+    height: 122px;
+    margin-left: 25px; 
+    margin-top: 30px
+}
+
+section > p {
+    width: 140px;
+    height: 38px;
+    text-align: center;
+    margin-top: 0;
+    background: #0F62A4;
+    color: #ffffff;
+    font-size: 23.8px;
+    font-family: sans-serif;
+}
+
+aside {
+    background-color: #DDDDDD;
+    border:  3px solid #464646;
+    width: 164px;
+    height: 561px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    position: absolute;
+    right: 200px;
+      
+}
+aside > p {
+    width: 164px;
+    height: 35px;
+    text-align: center;
+    margin-top: 0;
+    background: #464646;
+    color: #ffffff;
+    font-size: 23.8px;
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: #ffC8AE;
+    border:  3px solid #BD081C;
+    width: 1264px;
+    height: 224px;
+    margin-top: 10px;
+} 
+
+footer > p {
+    width: 140px;
+    height: 38px;
+    text-align: center;
+    margin-top: 0;
+    background: #BD081C;
+    color: #ffffff;
+    font-size: 23.8px;
+    font-family: sans-serif;
+}
